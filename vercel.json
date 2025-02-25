@@ -5,7 +5,7 @@
       "dest": "/Jaztea-1.3.33-PROD.apk",
       "headers": {
         "Content-Type": "application/vnd.android.package-archive",
-        "Content-Disposition": "attachment; filename=Jaztea-1.3.33-Prod.apk",
+        "Content-Disposition": "attachment; filename=Jaztea-1.3.33-PROD.apk",
         "Cache-Control": "no-cache"
       }
     },
